@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💰 Nippon Incentive Platform
+# Nippon Incentive Platform
 
 **A full-stack incentive calculator with dynamic slab admin panel for Nippon Toyota sales teams.**
 
