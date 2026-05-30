@@ -71,10 +71,10 @@ Incentive Engine is a production-grade web application built for Nippon Toyota t
 
 <div align="center">
   <h3>Admin — Incentive Slab Configuration</h3>
-  <img src="./screenshots/admin-inc.png" alt="Admin Dashboard" width="700"/>
+  <img src="./screenshots/admin-inc.png" alt="Admin Dashboard" width="800"/>
 
   <h3>Sales — Real-Time Incentive Calculator</h3>
-  <img src="./screenshots/sales-inc.png" alt="Sales Dashboard" width="700"/>
+  <img src="./screenshots/sales-inc.png" alt="Sales Dashboard" width="800"/>
 </div>
 
 ---
