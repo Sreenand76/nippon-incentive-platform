@@ -132,7 +132,7 @@ incentive-engine/
 ```bash
 # 1. Clone the repo
 git clone https://github.com/Sreenand76/incentive-engine.git
-cd incentive-engine/backend
+cd backend
 
 # 2. Set environment variables (Windows CMD)
 set DATASOURCE_URL=jdbc:postgresql://localhost:5432/nippon_incentive
@@ -153,7 +153,7 @@ Backend starts on `http://localhost:8080`
 ### Frontend
 
 ```bash
-cd ../frontend
+cd frontend
 
 # 1. Install dependencies
 npm install
