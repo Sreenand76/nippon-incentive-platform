@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💰 Incentive Engine
+# 💰 Nippon Incentive Platform
 
 **A full-stack incentive calculator with dynamic slab admin panel for Nippon Toyota sales teams.**
 
@@ -71,10 +71,10 @@ Incentive Engine is a production-grade web application built for Nippon Toyota t
 
 <div align="center">
   <h3>Admin — Incentive Slab Configuration</h3>
-  <img src="./screenshots/admin-inc.png" alt="Admin Dashboard" width="800"/>
+  <img src="./screenshots/admin-inc.png" alt="Admin Dashboard" width="900"/>
 
   <h3>Sales — Real-Time Incentive Calculator</h3>
-  <img src="./screenshots/sales-inc.png" alt="Sales Dashboard" width="800"/>
+  <img src="./screenshots/sales-inc.png" alt="Sales Dashboard" width="900"/>
 </div>
 
 ---
