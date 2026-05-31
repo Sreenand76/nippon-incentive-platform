@@ -131,7 +131,7 @@ incentive-engine/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Sreenand76/incentive-engine.git
+git clone https://github.com/Sreenand76/nippon-incentive-platform.git
 cd backend
 
 # 2. Set environment variables (Windows CMD)
